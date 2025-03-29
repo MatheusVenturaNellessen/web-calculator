@@ -3,43 +3,37 @@
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
-    <li>HTML;
-    <li>CSS;
-    <li>JavaScript;
+    <li>HTML
+    <li>CSS
+    <li>JavaScript
     <li>Visual Studio Code - Versão: 1.98.2
 </ul>
 
 <h2>Estruturas das pastas / arquivos do projeto</h2>
 
-``` Bash
-web-calculator/
-│
-├── assets/                 
-│   ├── css/                
-│   │   └── style.css       
-│   ├── js/                 
-│   │   └── main.js         
-│   └── img/                
-│       └── delete-icon.png 
-│
-└── index.html              
-```
+    web-calculator/
+    │
+    ├── assets/                 
+    │   ├── css/                
+    │   │   └── style.css       
+    │   ├── js/                 
+    │   │   └── main.js         
+    │   └── img/                
+    │       └── delete-icon.png 
+    │
+    └── index.html              
 
 <h2>Como rodar o projeto</h2>
 <ul>
     <li>Clone o repositório:
 
-    ``` Bash
     git clone https://github.com/MatheusVenturaNellessen/web-calculator.git
-    ```
 
 </ul>
 <ul>
     <li>Navegue até o diretório do projeto:
 
-    ``` Bash
     cd web-calculator
-    ```
 
 </ul>
 <ul>
