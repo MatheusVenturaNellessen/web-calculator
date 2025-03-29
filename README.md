@@ -1,5 +1,5 @@
 <h1>Calculadora Web</h1>
-<p>Esse projeto é uma calculadora desenvolvida em HTML, CSS e JavaScript. A mesma realiza cálculos matemáticos básicos, como soma, subtração, entre outros.</p>
+<p>Esse projeto é uma calculadora desenvolvida em HTML, CSS e JavaScript. A mesma realiza cálculos matemáticos básicos, como soma, subtração, multiplicação, divisão, exponenciação e expressões.</p>
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
@@ -28,13 +28,21 @@ web-calculator/
 <h2>Como rodar o projeto</h2>
 <ul>
     <li>Clone o repositório:
+
     ``` Bash
     git clone https://github.com/MatheusVenturaNellessen/web-calculator.git
     ```
+
+</ul>
+<ul>
     <li>Navegue até o diretório do projeto:
+
     ``` Bash
     cd web-calculator
     ```
+
+</ul>
+<ul>
     <li>Abra o arquivo index.html em seu navegador para visualizar a calculadora. 
 </ul>
 
