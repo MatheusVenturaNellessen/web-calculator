@@ -9,7 +9,7 @@
     <li>Visual Studio Code - Versão: 1.98.2.
 </ul>
 
-<h2>Estruturas das pastas do projeto</h2>
+<h2>Estruturas das pastas</h2>
 <pre>
     web-calculator/
     │
@@ -27,7 +27,7 @@
 
 <p>Não há necessiadade de instalar nenhuma depedência para rodar o projeto, apenas siga o passo-a-passo a seguir:</p>
 <ol>
-    <li>Navegue até o repostório pretendido:
+    <li>Navegue até o repositório pretendido:
     <pre><code>cd caminmho/do/repositorio</code></pre>
     <li>No diretório escolhido, clone o respositório:
     <pre><code>git clone https://github.com/MatheusVenturaNellessen/web-calculator.git</code></pre>
@@ -45,10 +45,10 @@
             <li>Divisão ( / ).
             <li>Exponenciação ( ** ).
         </ul>
-    <li>O botão ( = ) exibe o resultado da operação;
-    <li>O botão ( C ) limpa o display e renicia o cálculo;
+    <li>O botão ( = ) exibe o resultado da operação.
+    <li>O botão ( C ) limpa o display e renicia o cálculo.
     <li>O botão ( « ) apaga a última entrada de caracter. 
-    <li>Se o cálculo não for possível realizar, um alerta aparecerá informando o usuário;
+    <li>Se o cálculo não for possível realizar, um alerta aparecerá informando o usuário.
 </ul>
 
 <h2>Demonstração das funcionalidades</h2>
@@ -59,6 +59,6 @@
 <h2>Contribuições</h2>
 <p>Este projeto está aberto para contribuições através de issues. Caso você tenha encontrado um bug, queira sugerir uma melhoria ou tenha dúvidas sobre o funcionamento do projeto, por favor, siga as instruções abaixo:</p>
 <ol>
-    <li>Verifique se já existe uma issue da situação aberta. Se já existir, adicione seu comentário na issue existente;
+    <li>Verifique se já existe uma issue da situação aberta. Se já existir, adicione seu comentário na issue existente.
     <li>Caso não tenha sido aberta, crie uma issue nova.
 </ol>
